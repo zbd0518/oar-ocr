@@ -7,6 +7,8 @@
 
 A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
 
+[中文](README_zh.md)
+
 ## Highlights
 
 - End-to-end text detection and recognition with PP-OCR models, including PP-OCRv6.
@@ -138,11 +140,14 @@ See the [`oar-ocr-vl` guide](oar-ocr-vl/README.md) for setup and [`oar-ocr-vl/ex
 
 ## Documentation
 
+- [Project overview](docs/overview.md) — capabilities, prerequisites, and doc map (Chinese)
+- [Architecture](docs/architecture.md) — workspace layout, pipelines, and extension points (Chinese)
 - [Usage guide](docs/usage.md) — APIs, builder patterns, accelerators, and model loading
 - [Cargo features](docs/features.md) — defaults, execution providers, and feature combinations
 - [Pre-trained models](docs/models.md) — model files, dictionaries, and auto-download behavior
 - [Environment variables](docs/environment-variables.md) — runtime and performance overrides
 - [FAQ](docs/FAQ.md) — common build and runtime issues
+- [中文 README](README_zh.md) — Chinese translation of this document
 
 ## Examples
 
